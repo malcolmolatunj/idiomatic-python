@@ -1,5 +1,5 @@
 # Transforming Code into Beautiful, Idiomatic Python
-Code samples from Raymond Hettinger's ["Transforming Code into Beautiful, Idiomatic Python"](https://www.youtube.com/watch?v=OSGv2VnC0go) with modern Python features.
+Code samples from Raymond Hettinger's ["Transforming Code into Beautiful, Idiomatic Python"](https://www.youtube.com/watch?v=OSGv2VnC0go) with modern Python features. "Modern" features are considered features released in Python 3.5 and later, since Python 3.4 had been released at the time of Mr. Hettinger's presentation.
 
 ## Table of Contents
 - Looping
